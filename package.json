@@ -1,0 +1,31 @@
+{
+  "name": "o",
+  "version": "1.0.0",
+  "description": "owlie ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "^1.15.6",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harekuin/o.git"
+},
+  "author": "megan s",
+  "license": "ISC"
+}
